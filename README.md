@@ -1,0 +1,1 @@
+# competidaily-generator-server
